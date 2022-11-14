@@ -4,9 +4,6 @@
 
 ![Grafana][grafana-version] ![Influx][influx-version] ![Chronograf][chronograf-version]
 
-[![Buy me a coffee][buymeacoffee-icon]][buymeacoffee]
-
-
 This is a Docker image based on the awesome [Docker Image with Telegraf (StatsD), InfluxDB and Grafana](https://github.com/samuelebistoletti/docker-statsd-influxdb-grafana) from [Samuele Bistoletti](https://github.com/samuelebistoletti).
 
 The main point of difference with this image is:
@@ -19,9 +16,9 @@ The main purpose of this image is to be used to show data from a [Home Assistant
 
 | Description  | Value   |
 |--------------|---------|
-| InfluxDB     | 1.8.2   |
-| ChronoGraf   | 1.8.6   |
-| Grafana      | 7.2.0   |
+| InfluxDB     | 2.5.1   |
+| ChronoGraf   | 1.24.3  |
+| Grafana      | 9.2.3   |
 
 ## Quick Start
 
